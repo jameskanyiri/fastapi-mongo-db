@@ -26,7 +26,7 @@ fastapi-mongo-db/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jameskanyiri/fastapi-mongo-db.git
 cd fastapi-mongo-db
 ```
 
